@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomsFonts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+ <string name="def">This is the default font</string>
+ <string name="customfont1">This is a custom font 1</string>
+ <string name="customfont2">This is a custom font 2</string>
+ <string name="customfont3">This is a custom font 3</string>
+</resources>
